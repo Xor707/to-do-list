@@ -1,4 +1,8 @@
 {
   "john_doe": "$2b$10$D284LRlzoWdMp3J/yhAovuLwAaGj3HwI57O4yB4GBq6R3.Xit/rvi",
-  "john": "$2b$10$KQqPsMwXDqyGb8CiWqozd.isP5avLZaiX/BQjDJSHpVIBEqbxFwbe"
+  "john": "$2b$10$KQqPsMwXDqyGb8CiWqozd.isP5avLZaiX/BQjDJSHpVIBEqbxFwbe",
+  "johnn": "$2b$10$7azKOyFJVk6vQpaCpVDkm.hByDv8R9L4bVKujRHM3eyTdGBDLRZVS",
+  "alice123": "$2b$10$9SQUg6Q3Px3nBITkqPXbbua0PV.MByPQkhK3JbpBnGw8z4.H7Wu7S",
+  "alice1234": "$2b$10$cDxYyb24dKRnYbkn69FyAuJy8HvclC895Fsev3TXAdYe8jwLpQTli",
+  "alice": "$2b$10$9C1QFRiwa2feO6c9nxzrkeO5WGHY6Dmph7/5/LSEnLBZSdpY1ej8K"
 }
