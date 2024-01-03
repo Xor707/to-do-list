@@ -7,7 +7,7 @@ const express = require('express');
 const app = express();
 
 // Access environment variables
-const port = process.env.PORT || 8000;
+const port = process.env.PORT || 9000;
 const apiKey = process.env.API_KEY;
 const debugMode = process.env.DEBUG === 'true';
 
